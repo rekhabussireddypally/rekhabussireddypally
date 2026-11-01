@@ -18,11 +18,10 @@ I'm particularly interested in **Artificial Intelligence and Generative AI**, wi
 
 | Category | Technologies |
 |---|---|
-| Languages | Python, Java, JavaScript, PHP, SQL |
-| Frontend | React, HTML5, CSS3 |
+| Languages | Python, Java, SQL |
+| Frontend | React.js, HTML5, CSS3 |
 | Backend | Node.js, Express.js, FastAPI, Flask |
-| Databases | MySQL, SQLite, ChromaDB, CognoDB |
-| AI & Data | Claude, Gemini, ChatGPT, RAG, Sentence Transformers, Pandas, Power BI |
+| Databases | MySQL, SQLite, ChromaDB |
 | Tools | Git, GitHub, Docker, VS Code |
 
 ---
